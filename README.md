@@ -6,7 +6,7 @@ A sentiment evaluation system for text analysis combines natural language proces
 
 The repository contains a highly accurate model of sentiment analysis from a datasets containing movie review score with the help of classifiers such as Naïve Bayes, the application can correctly classify the reviews of the given datasets as positive and negative to give sentiment of each movie.
 
-# Data Set: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
+Data Set: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
 
 ---
 
