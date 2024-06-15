@@ -1,3 +1,15 @@
+# SENTIMENTAL ANALYSIS FOR MOVIE REVIEW USING NAVIE-BAYES
+
+Sentiment analysis is basically concerned with analysis of emotions and opinions from text.
+
+A sentiment evaluation system for text analysis combines natural language processing (NLP) and laptop mastering methods to assign weighted sentiment scores to the entities, topics, issues and categories inside a sentence or phrase.It tries to find and justify sentiment of the person with respect to a given source of content.
+
+The repository contains a highly accurate model of sentiment analysis from a datasets containing movie review score with the help of classifiers such as Naïve Bayes, the application can correctly classify the reviews of the given datasets as positive and negative to give sentiment of each movie.
+
+# Data Set: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
+
+---
+
 # NAVIE-BAYES
 Bayes Theorem is named for English mathematician Thomas Bayes, who worked extensively in decision theory, the field of mathematics that involves probabilities.
 
@@ -16,8 +28,11 @@ Bayes Formula:
 Let’s Look into the terms:
 
 P(C | x) = Probability of event C happening given that event x happened
+
 P(x | C) = Probability of event x happening given that event C happened
+
 P(C) = Probability of event C happening
+
 P(x) = Probability of event x happening
 
 The Bayes Theorem thus gives us a way to find the Conditional Probability . Bayes Theorem lies in the heart of the Naive Bayes theorem.
@@ -57,4 +72,7 @@ P(Ci | X) = [P(X | Ci) * P(Ci)] / P(X)
 - Naive Bayes is also known as a bad estimator, so the probability outputs are not to be taken too seriously.
 
 - Another limitation of Naive Bayes is the assumption of independent predictors. In real life, it is almost impossible that we get a set of predictors which are completely independent.
+
+---
+
   
